@@ -9,6 +9,6 @@ Team:
 5. Олександр Солодько
 
 Technologies:
-*grid: Materialize
-*prepros: less
+* grid: Materialize
+* prepros: less
 
