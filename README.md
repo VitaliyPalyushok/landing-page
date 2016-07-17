@@ -13,3 +13,4 @@ Technologies:
 * grid: Materialize
 * prepros: less
 
+template: [landing-page-3](http://uiwireframes.com/assets/img/wireframe-examples/Landing-Page-3.png)
