@@ -11,8 +11,8 @@ Team:
 
 Technologies:
 * grid: Materialize
-* prepros: less
+* preprocessor css: less
 
 template: [landing-page-3](http://uiwireframes.com/assets/img/wireframe-examples/Landing-Page-3.png)
 
-gh-page: [landing-page-3](https://yarmol1k.github.io/landing-page/src/)
+gh-page: [open gh-page](https://yarmol1k.github.io/landing-page/src/)
