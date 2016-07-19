@@ -15,4 +15,4 @@ Technologies:
 
 template: [landing-page-3](http://uiwireframes.com/assets/img/wireframe-examples/Landing-Page-3.png)
 
-[![gh-pages][https://yarmol1k.github.io/landing-page/src/]](http://uiwireframes.com/assets/img/wireframe-examples/Landing-Page-3.png)
+[![gh-pages](https://yarmol1k.github.io/landing-page/src/)(http://uiwireframes.com/assets/img/wireframe-examples/Landing-Page-3.png)
