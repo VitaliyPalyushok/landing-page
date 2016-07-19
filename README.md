@@ -17,4 +17,6 @@ template: [landing-page-3](http://uiwireframes.com/assets/img/wireframe-examples
 
 [![gh-pages](https://yarmol1k.github.io/landing-page/src/)(http://uiwireframes.com/assets/img/wireframe-examples/Landing-Page-3.png)
 
-[![alt text][https://s3.amazonaws.com/media-p.slid.es/uploads/394225/images/2190024/gh-pages.png][1]
+[![alt text]][1]
+
+<a href="http://meta.stackoverflow.com/users/44330/jason-s">![alt text][https://s3.amazonaws.com/media-p.slid.es/uploads/394225/images/2190024/gh-pages.png]</a>
